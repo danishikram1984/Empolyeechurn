@@ -1,0 +1,6 @@
+pandas
+streamlit
+joblib
+dill
+scikit_learn
+
